@@ -1,0 +1,5 @@
+.jobmonitor_env/
+*.pyc
+*.pyo
+build/
+dist/
